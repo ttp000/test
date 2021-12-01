@@ -2,14 +2,14 @@
 {
   "id":1,
   "name":"Book 1",
-  "image": "null"
+  "image": "ic_picture_2"
 },{
   "id":2,
   "name":"Book 2",
-  "image": "null"
+  "image": "ic_picture_3"
 },{
   "id":3,
   "name":"Book 3",
-  "image": "null"
+  "image": "ic_picture_2"
 }
 ]
