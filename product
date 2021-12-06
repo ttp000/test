@@ -4,39 +4,45 @@
   "name":"Book 1",
   "price": 75000,
   "description":"This is book 1",
-  "image": "ic_picture_1_foreground"
+  "image": "ic_picture_1_foreground",
+  "categoryId":1
   
 },{
   "id":2,
   "name":"Book 2",
   "price": 85000,
   "description":"This is book 2",
-  "image": "ic_picture_2_foreground"
+  "image": "ic_picture_2_foreground",
+  "categoryId":1
   
 },{
   "id":3,
   "name":"Book 3",
   "price": 125000,  
   "description":"This is book 3",
-  "image": "ic_picture_3_foreground"
+  "image": "ic_picture_3_foreground",
+  "categoryId":2
 },{
   "id":4,
   "name":"Book 4",
   "price": 115000,  
   "description":"This is book 4",
-  "image": "ic_picture_4_foreground"
+  "image": "ic_picture_4_foreground",
+  "categoryId":2
 },{
   "id":5,
   "name":"Book 5",
   "price": 65000,  
   "description":"This is book 5",
-  "image": "ic_picture_5_foreground"
+  "image": "ic_picture_5_foreground",
+  "categoryId":3
 },{
   "id":6,
   "name":"Book 6",
   "price": 115000,  
   "description":"This is book 6",
-  "image": "ic_picture_3_foreground"
+  "image": "ic_picture_3_foreground",
+  "categoryId":4
 }
 
 ]
